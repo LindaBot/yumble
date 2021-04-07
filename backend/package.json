@@ -20,8 +20,8 @@
   "keywords": [],
   "author": "",
   "dependencies": {
-    "@babel/core": "^7.13.10",
     "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
     "@babel/node": "^7.13.10",
     "@babel/preset-env": "^7.13.10",
     "axios": "^0.21.1",
